@@ -15,7 +15,7 @@
 # 凡人修仙传
 
 <img src="img/凡人修仙传.jpg"  alt=""/>
-<img src="img/凡人修仙传.jpg"  alt=""/>
+<img src="img/凡人修仙传2.jpg"  alt=""/>
 
 文件预览：
 <img src="img/凡人修仙传_.jpg"  alt=""/>
