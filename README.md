@@ -13,6 +13,7 @@
 
 视频预览：
 <img src="img/demo.png"  alt=""/>
+可搭配potplayer+madVR食用效果更佳。
 
 # 凡人修仙传
 
